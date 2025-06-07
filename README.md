@@ -1,3 +1,3 @@
 # myFirstRepo
 This is my first repository<br>
-Author - Shubham mahile 
+Author - Shubham mahile (NIT KKR)
